@@ -7,3 +7,9 @@ Description:
 - 🔧 Skills: 
 - 🧰 Tools:
 - 📁 [View Repo](https://github.com/Shanikah-Boyce/Deploying-a-Web-Application-Using-Docker.git)
+
+### CI/CD pipeline
+Description: 
+- 🔧 Skills: 
+- 🧰 Tools:
+- 📁 [View Repo](https://github.com/Shanikah-Boyce/nextwork-web-project.git)
