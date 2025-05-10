@@ -8,7 +8,7 @@ Description:
 - 🧰 Tools:
 - 📁 [View Repo](https://github.com/Shanikah-Boyce/Deploying-a-Web-Application-Using-Docker.git)
 
-### CI/CD pipeline
+### Automating-CICD-with-AWS
 Description: 
 - 🔧 Skills: 
 - 🧰 Tools:
